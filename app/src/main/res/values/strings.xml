@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-custom-view</string>
+    <string name="custom_view_title_basic">기본 타이틀</string>
+    <string name="custom_view_title_1">첫번째 타이틀</string>
+    <string name="custom_view_title_2">두번째 타이틀</string>
+    <string name="custom_view_title_3">세번째 타이틀</string>
+</resources>
